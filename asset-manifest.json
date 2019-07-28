@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactDeployTest/static/css/main.2cce8147.chunk.css",
+    "main.js": "/reactDeployTest/static/js/main.b2c15e61.chunk.js",
+    "main.js.map": "/reactDeployTest/static/js/main.b2c15e61.chunk.js.map",
+    "runtime~main.js": "/reactDeployTest/static/js/runtime~main.744241f7.js",
+    "runtime~main.js.map": "/reactDeployTest/static/js/runtime~main.744241f7.js.map",
+    "static/js/2.b41502e9.chunk.js": "/reactDeployTest/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/reactDeployTest/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/reactDeployTest/index.html",
+    "precache-manifest.ef2cf522a375a7f508c52ea58a17c929.js": "/reactDeployTest/precache-manifest.ef2cf522a375a7f508c52ea58a17c929.js",
+    "service-worker.js": "/reactDeployTest/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/reactDeployTest/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/reactDeployTest/static/media/logo.5d5d9eef.svg"
+  }
+}
